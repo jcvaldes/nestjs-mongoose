@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "outputDirectory": "dist",
-  "rootDirectory": ".",
   "builds": [
     {
       "src": "dist/main.js",
